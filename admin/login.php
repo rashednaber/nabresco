@@ -1,5 +1,6 @@
 <?php
 session_start();
+// i lost my passport today
 //include '../includes/admin_header.php';
 require_once '../includes/connections.php';
 //refer to the comment just above the form
