@@ -1,6 +1,4 @@
-<?php
-include '../includes/admin_header.php';
-?>
+<?php include '../includes/admin_header.php';?>
 
 <div class="container_12">
 
@@ -86,6 +84,4 @@ include '../includes/admin_header.php';
 
 
     <!-- dynamic way to include the footer -->    
-    <?php
-    include '../includes/admin_footer.php';
-    ?>
+    <?php include '../includes/admin_footer.php';?>

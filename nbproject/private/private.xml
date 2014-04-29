@@ -3,23 +3,25 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="try">
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/edit_project.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/projects.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/logout.php</file>
             <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/add_user.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/update_user.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/projects.php</file>
             <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/edit_user.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/index.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/login.php</file>
             <file>file:/Applications/MAMP/htdocs/nabrescodynamic/includes/admin_footer.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/users.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/delete_user.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/includes/config.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/update_project.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/create_project.php</file>
             <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/create_user.php</file>
             <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/add_project.php</file>
             <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/delete_project.php</file>
-            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/includes/admin_header.php</file>
             <file>file:/Applications/MAMP/htdocs/nabrescodynamic/includes/connections.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/edit_project.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/update_user.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/index.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/includes/config.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/delete_user.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/users.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/update_project.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/admin/create_project.php</file>
+            <file>file:/Applications/MAMP/htdocs/nabrescodynamic/includes/admin_header.php</file>
         </group>
     </open-files>
 </project-private>
